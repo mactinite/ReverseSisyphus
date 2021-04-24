@@ -32,6 +32,8 @@ public class GridMove : MonoBehaviour
                     moveTarget.position = newPosition;
                     return true;
                 } else {
+                    newPosition = moveTarget.position + new Vector3(moveDirection.x / 2, 0f, 0f);
+                    transform.position = newPosition ;
                     return false;
                 }
 
@@ -43,6 +45,8 @@ public class GridMove : MonoBehaviour
                     moveTarget.position = newPosition;
                     return true;
                 } else {
+                    newPosition = moveTarget.position + new Vector3(0f, moveDirection.y / 2, 0f);
+                    transform.position = newPosition;
                     return false;
                 }
             }

@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.mactinite.toolboxcommons": {
+      "version": "https://github.com/mactinite/UnityToolboxCommons.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "5749574a3402f47bc7a6f435f26d698b735fdf77"
+    },
     "com.unity.2d.animation": {
       "version": "5.0.4",
       "depth": 0,
