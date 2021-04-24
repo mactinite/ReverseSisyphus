@@ -1,0 +1,561 @@
+fileFormatVersion: 2
+guid: 80df70787d453477c8bd8008dbfe8cc3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -584857802077871141
+    second: Flat_Dungo_set_0
+  - first:
+      213: -3020213877073316782
+    second: Flat_Dungo_set_1
+  - first:
+      213: -6520958374260863573
+    second: Flat_Dungo_set_2
+  - first:
+      213: 6725114251519480048
+    second: Flat_Dungo_set_3
+  - first:
+      213: 5950656867457765830
+    second: Flat_Dungo_set_4
+  - first:
+      213: 6899750023326274294
+    second: Flat_Dungo_set_7
+  - first:
+      213: -7552346027194881957
+    second: Flat_Dungo_set_8
+  - first:
+      213: 7535876827319175646
+    second: Flat_Dungo_set_9
+  - first:
+      213: -544255321103598801
+    second: Flat_Dungo_set_10
+  - first:
+      213: 111006386160924149
+    second: Flat_Dungo_set_11
+  - first:
+      213: 2200209570615734274
+    second: Flat_Dungo_set_12
+  - first:
+      213: 4486886284521429076
+    second: Flat_Dungo_set_13
+  - first:
+      213: -3850332940171309260
+    second: Flat_Dungo_set_15
+  - first:
+      213: -5313722643287785806
+    second: Flat_Dungo_set_16
+  - first:
+      213: -748897479740222059
+    second: Flat_Dungo_set_17
+  - first:
+      213: 6947183596164888339
+    second: Flat_Dungo_set_18
+  - first:
+      213: 7980375726061508856
+    second: Flat_Dungo_set_19
+  - first:
+      213: 979089694724654030
+    second: Flat_Dungo_set_20
+  - first:
+      213: -3396404396991364730
+    second: Flat_Dungo_set_21
+  - first:
+      213: 6123972081681749961
+    second: Flat_Dungo_set_22
+  - first:
+      213: 3064428201118012219
+    second: Flat_Dungo_set_23
+  - first:
+      213: 2619198389133447291
+    second: Flat_Dungo_set_24
+  - first:
+      213: -1597625100192194218
+    second: Flat_Dungo_set_25
+  - first:
+      213: 17165391728399585
+    second: Flat_Dungo_set_26
+  - first:
+      213: 7738571946913602409
+    second: Flat_Dungo_set_27
+  - first:
+      213: -6455070690636111676
+    second: Flat_Dungo_set_28
+  - first:
+      213: 4465411860472344430
+    second: Flat_Dungo_set_29
+  - first:
+      213: 7333102541939770632
+    second: Flat_Dungo_set_30
+  - first:
+      213: -5009272763739581672
+    second: Flat_Dungo_set_31
+  - first:
+      213: -1345025237961923674
+    second: Flat_Dungo_set_32
+  - first:
+      213: -2091874284835289551
+    second: Flat_Dungo_set_33
+  - first:
+      213: -882903473799887180
+    second: Flat_Dungo_set_34
+  - first:
+      213: 7063599178991432166
+    second: Flat_Dungo_set_35
+  - first:
+      213: 665973125932136570
+    second: Flat_Dungo_set_36
+  - first:
+      213: -1945660177824338289
+    second: Flat_Dungo_set_37
+  - first:
+      213: 1982438854524237695
+    second: Flat_Dungo_set_38
+  - first:
+      213: -1343711058026743492
+    second: Flat_Dungo_set_39
+  - first:
+      213: -5516820956019339265
+    second: Flat_Dungo_set_40
+  - first:
+      213: -6744119170316039374
+    second: Flat_Dungo_set_41
+  - first:
+      213: -2999085686433127051
+    second: Flat_Dungo_set_42
+  - first:
+      213: 3073755552831309857
+    second: Flat_Dungo_set_43
+  - first:
+      213: -5821403663113784477
+    second: Flat_Dungo_set_44
+  - first:
+      213: 8785182200067317472
+    second: Flat_Dungo_set_45
+  - first:
+      213: 8301478090610742561
+    second: Flat_Dungo_set_46
+  - first:
+      213: 7465016336678766620
+    second: Flat_Dungo_set_47
+  - first:
+      213: 3029669421185541237
+    second: Flat_Dungo_set_48
+  - first:
+      213: -8879946809500392322
+    second: Flat_Dungo_set_49
+  - first:
+      213: 4862252830547593405
+    second: Flat_Dungo_set_50
+  - first:
+      213: -5891196068237083870
+    second: Flat_Dungo_set_51
+  - first:
+      213: 2665432877526508099
+    second: Flat_Dungo_set_52
+  - first:
+      213: 317688898845440040
+    second: Flat_Dungo_set_53
+  - first:
+      213: 7392669897335512898
+    second: Flat_Dungo_set_54
+  - first:
+      213: -5523164844856313958
+    second: Flat_Dungo_set_55
+  - first:
+      213: 5954261531510046313
+    second: Flat_Dungo_set_56
+  - first:
+      213: 6492079843330749394
+    second: Flat_Dungo_set_57
+  - first:
+      213: -7699515392803499270
+    second: Flat_Dungo_set_58
+  - first:
+      213: -8858565406458515752
+    second: Flat_Dungo_set_59
+  - first:
+      213: 2802551235498486404
+    second: Flat_Dungo_set_60
+  - first:
+      213: -8853370999235951014
+    second: Flat_Dungo_set_61
+  - first:
+      213: 5354548021084088478
+    second: Flat_Dungo_set_62
+  - first:
+      213: 7955053041676080680
+    second: Flat_Dungo_set_63
+  - first:
+      213: 5859281081783593012
+    second: Flat_Dungo_set_5
+  - first:
+      213: 7087000974210819782
+    second: Flat_Dungo_set_6
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flat_Dungo_set_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3680f7dea22e7f0800000000000000
+      internalID: -584857802077871141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flat_Dungo_set_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254f6570b7b0616d0800000000000000
+      internalID: -3020213877073316782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flat_Dungo_set_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad821b78e6e085a0800000000000000
+      internalID: -6520958374260863573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flat_Dungo_set_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f05cb3d7c7645d50800000000000000
+      internalID: 6725114251519480048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flat_Dungo_set_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c11f0d94eaf49250800000000000000
+      internalID: 5950656867457765830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flat_Dungo_set_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438a0ee9919505150800000000000000
+      internalID: 5859281081783593012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flat_Dungo_set_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6eea666d51a5260800000000000000
+      internalID: 7087000974210819782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flat_Dungo_set_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f21b5bf616d0cf50800000000000000
+      internalID: 6899750023326274294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flat_Dungo_set_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5867346d4da03790800000000000000
+      internalID: -7552346027194881957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flat_Dungo_set_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed905733c00d49860800000000000000
+      internalID: 7535876827319175646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flat_Dungo_set_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bf0864baa6278f0800000000000000
+      internalID: -544255321103598801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flat_Dungo_set_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5fbe658bf5a8100800000000000000
+      internalID: 111006386160924149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
