@@ -13,8 +13,14 @@ public class Goal : MonoBehaviour
     {
         if (other.gameObject.CompareTag(GoalTag))
         {
-            SceneManager.LoadScene(nextScene, LoadSceneMode.Single);
+            Invoke("LoadNextScene", 1f);
         }
+    }
+
+    void LoadNextScene()
+    {
+        SceneManager.LoadScene(nextScene, LoadSceneMode.Single);
+
     }
 
 }

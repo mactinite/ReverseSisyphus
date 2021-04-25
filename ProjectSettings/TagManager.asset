@@ -15,8 +15,8 @@ TagManager:
   - BlockingLayer
   - PushableLayer
   - HoleLayer
-  - 
-  - 
+  - FillableLayer
+  - DroppableLayer
   - 
   - 
   - 

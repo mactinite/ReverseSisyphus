@@ -48,9 +48,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveTarget: {fileID: 2300723456717766062}
   smoothTime: 0.1
+  blockedMoveScalar: 0.32
   blockingLayerMask:
     serializedVersion: 2
-    m_Bits: 192
+    m_Bits: 1984
 --- !u!114 &2300723456136901937
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -65,7 +66,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pushableLayerMask:
     serializedVersion: 2
-    m_Bits: 128
+    m_Bits: 1152
 --- !u!1 &2300723456717766057
 GameObject:
   m_ObjectHideFlags: 0
