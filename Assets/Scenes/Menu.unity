@@ -1135,10 +1135,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 2
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 16
-  m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ScaleFactor: 0.5
+  m_ReferenceResolution: {x: 640, y: 360}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -1381,7 +1381,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Reversyphus
+  m_text: 'Reversyphus
+
+    <size=12> made by mactinite for Ludum Dare 48 in April
+    2021'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 74fcaa4b10284420585b2c56e96fd210, type: 2}
   m_sharedMaterial: {fileID: 7228335863140409358, guid: 74fcaa4b10284420585b2c56e96fd210, type: 2}

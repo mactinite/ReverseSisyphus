@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 678c0ccf642684b6ea34e0b1f949d703
+  - enabled: 1
     path: Assets/Scenes/Levels/1-PushTheBlock.unity
     guid: b3d76fbcb07c5409580f9e75cfc7e330
   - enabled: 1
@@ -18,12 +21,21 @@ EditorBuildSettings:
     path: Assets/Scenes/Levels/4-CrateBridge.unity
     guid: 292ab34fe36ef4323a8fdad1fbdaf3d2
   - enabled: 1
-    path: Assets/Scenes/Levels/5-BlockedIn.unity
-    guid: b59ee4d5a3cc14c388883710af92afbe
+    path: Assets/Scenes/Levels/5-PushTheBlock.unity
+    guid: ce1896b8f9b2e4d9fa4d4a86e0d5699b
   - enabled: 1
     path: Assets/Scenes/Levels/6-BlockedIn.unity
+    guid: b59ee4d5a3cc14c388883710af92afbe
+  - enabled: 1
+    path: Assets/Scenes/Levels/7-BlockedIn.unity
     guid: 48d31ae21b109487a83876b2f4a23a22
   - enabled: 1
-    path: Assets/Scenes/Levels/7-ItsCrate.unity
+    path: Assets/Scenes/Levels/8-ItsCrate.unity
     guid: fa0357f37c9f44ce2bb0dd31a5fec235
+  - enabled: 1
+    path: Assets/Scenes/Levels/9-GettinWeird.unity
+    guid: 2947aadba34424418ae3e90b608eff8f
+  - enabled: 1
+    path: Assets/Scenes/Levels/10-IsThisMyPurpose.unity
+    guid: e6401c2b8cfc344c59181f69715ead96
   m_configObjects: {}
