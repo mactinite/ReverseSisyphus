@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.Events;
 public class FillableHole : MonoBehaviour
 {
     public Collider2D collider;
@@ -22,7 +22,7 @@ public class FillableHole : MonoBehaviour
 
     public IEnumerator Fill(Droppable droppable)
     {
-        yield return new WaitForSeconds(0.5f);
+        yield return new WaitForSeconds(0.25f);
         droppable.Drop();
         filled = true;
         collider.enabled = false;

@@ -1,16 +1,19 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.Events;
 public class GridMove : MonoBehaviour
 {
     public Transform moveTarget;
     public float smoothTime = 0.3F;
     public float blockedMoveScalar = .1f;
-    private Vector3 velocity = Vector3.zero;
     public LayerMask blockingLayerMask;
 
+    public UnityEvent OnBlockedMove = new UnityEvent();
+
     private Vector2 moveInput = Vector2.zero;
+    private Vector3 velocity = Vector3.zero;
+
 
     private void Start()
     {
@@ -42,6 +45,7 @@ public class GridMove : MonoBehaviour
                 {
                     newPosition = moveTarget.position + new Vector3(moveDirection.x * blockedMoveScalar, 0f, 0f);
                     transform.position = newPosition;
+                    OnBlockedMove.Invoke();
                     return false;
                 }
 
@@ -60,6 +64,7 @@ public class GridMove : MonoBehaviour
                 {
                     newPosition = moveTarget.position + new Vector3(0f, moveDirection.y * blockedMoveScalar, 0f);
                     transform.position = newPosition;
+                    OnBlockedMove.Invoke();
                     return false;
                 }
             }

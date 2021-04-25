@@ -6,12 +6,24 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Levels/PushTheBlock.unity
+    path: Assets/Scenes/Levels/1-PushTheBlock.unity
     guid: b3d76fbcb07c5409580f9e75cfc7e330
   - enabled: 1
-    path: Assets/Scenes/Levels/PushTheBlock_2.unity
+    path: Assets/Scenes/Levels/2-PushTheBlock_2.unity
     guid: 327e467591ecd4ba6904b9cbcd4016b9
   - enabled: 1
-    path: Assets/Scenes/Levels/DropTheBlock.unity
+    path: Assets/Scenes/Levels/3-DropTheBlock.unity
     guid: 9e7915a12be6245a5ad92d91712134e6
+  - enabled: 1
+    path: Assets/Scenes/Levels/4-CrateBridge.unity
+    guid: 292ab34fe36ef4323a8fdad1fbdaf3d2
+  - enabled: 1
+    path: Assets/Scenes/Levels/5-BlockedIn.unity
+    guid: b59ee4d5a3cc14c388883710af92afbe
+  - enabled: 1
+    path: Assets/Scenes/Levels/6-BlockedIn.unity
+    guid: 48d31ae21b109487a83876b2f4a23a22
+  - enabled: 1
+    path: Assets/Scenes/Levels/7-ItsCrate.unity
+    guid: fa0357f37c9f44ce2bb0dd31a5fec235
   m_configObjects: {}
